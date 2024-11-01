@@ -8,6 +8,8 @@ fr:
   languageName: Français
   params:
     social:
+      email: >-
+        gaecdelorme@gmail.com
   permalinks:
   taxonomies:
     administrator: administrators
