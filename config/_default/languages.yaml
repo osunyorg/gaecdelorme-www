@@ -7,9 +7,14 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      email: >-
-        gaecdelorme@gmail.com
+    contact_details:
+      emails:
+        email:
+          label: >-
+            gaecdelorme@gmail.com
+          value: >-
+            mailto:gaecdelorme@gmail.com
+
   permalinks:
   taxonomies:
     administrator: administrators
