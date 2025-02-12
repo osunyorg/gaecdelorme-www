@@ -2,6 +2,11 @@
 
 baseURL: https://www.gaecdelorme.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 3f8986ed-db8a-4e23-ae1d-eff5468b14fe
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
