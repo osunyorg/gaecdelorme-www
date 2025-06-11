@@ -16,8 +16,6 @@ fr:
           value: >-
             mailto:gaecdelorme@gmail.com
 
-  permalinks:
-    pages_categories: /:slug/
   taxonomies:
     administrator: administrators
     author: authors
